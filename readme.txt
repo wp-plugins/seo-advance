@@ -1,4 +1,4 @@
-=== Demo Plugin ===
+=== SEO Advance Plugin ===
 Contributors: rajeshjhala
 Donate link: https://profiles.wordpress.org/rajeshzala/
 Tags: SEO Advance Plugin, Advance SEO Plugin, Search Engine Optimization Plugin, SEO Plugin, Googla Analytical Code, Google Verification Tag, MSN Verification Tag, Google Authorship Tag, Google Publisher Tag, Extra Metas, Tracking Script, XML Sitemap, Auto Generated XML, Auto XML
