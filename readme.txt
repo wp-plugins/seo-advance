@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-SEO Advance Plugin
+SEO Advance Plugin is provides powerful tool to help you your site to rank in search engine.
 
 == Description ==
 
